@@ -1,4 +1,4 @@
-jquery-simplefaq
+SimpleFAQ
 ================
 
 Simple FAQ Anchor Compiler using jQuery
