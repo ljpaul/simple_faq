@@ -1,4 +1,4 @@
-// simple_faq.js by Logan Paul (2014)
+// simple_faq.js by Logan Paul (2014) under MIT License
 function simple_faq(target_id, src_class, anchor_name, title_selector) {
 	// target_id - container for the ul list
 	// src_class - class of containers with information
